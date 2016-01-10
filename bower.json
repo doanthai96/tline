@@ -1,0 +1,27 @@
+{
+  "name": "tline",
+  "homepage": "https://github.com/doanthai96/tline",
+  "authors": [
+    "doanthai96 <doanthai96@gmail.com>"
+  ],
+  "description": "none",
+  "main": [
+	"./css/reset.css"
+	"./css/style.css"
+	"./js/jquery.mobile.custom.min.js"
+	"./js/main.js"
+	"./js/modernizr.js"
+  ],
+  "moduleType": [],
+  "keywords": [
+    "thai"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
